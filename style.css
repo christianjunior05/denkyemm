@@ -65,7 +65,7 @@ a{
     width: 100%;
     height: auto;
     position: relative;
-    top: 80%;
+    top: 40%;
     background-image: linear-gradient(to left , #061641 ,#fff500);
 }
 .img h1:nth-child(1){
@@ -80,4 +80,17 @@ a{
     position: relative;
     font-size: 37px;
     left: 10%;
+}
+.lgd{
+    position: relative;
+    display: inline-block;
+    left: 10%;
+}
+.stat{
+   position: relative;
+   width: 100%;
+   top: 40%;
+   color: #FFF;
+   display: flex;
+   justify-content: space-around;
 }
